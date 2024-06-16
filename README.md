@@ -63,5 +63,3 @@ Sorgu Çıktısı:
 "status": "success"
 }
 ``
-
-\#python \#api \#kitap \#nodejs \#javascript \#typescript \#go \#C#
