@@ -1,6 +1,8 @@
 # Kitapi
 Türkiye'nin ilk ve tek Türkçe kitap API'si.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beeali68&label=Repository%20views&color=0e75b6&style=flat" alt="beeali68" /> </p>
+
 ## Sorgular
 ### Kitap İsmi ile Sorgu:
 
