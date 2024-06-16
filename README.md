@@ -26,7 +26,8 @@ Sorgu Çıktısı:
 "kitap_adi": "Nutuk",
 "yayinevi": "CAN YAYINLARI",
 "yazar": "Mustafa Kemal Atatürk"
-}
+},
+...
 ],
 "method": "GET",
 "status": "success"
@@ -57,7 +58,8 @@ Sorgu Çıktısı:
   "kitap_adi": "Yabancı",
   "yayinevi": "CAN YAYINLARI",
   "yazar": "Albert Camus"
-  }
+  },
+...
 ],
 "method": "GET",
 "status": "success"
