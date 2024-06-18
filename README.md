@@ -67,14 +67,30 @@ Sorgu Çıktısı:
   "code": 200,
   "dt": "2024-06-16 15:20:13.479537",
   "message": [
-    {
-    "fiyat": "66.70",
-    "id": 189,
-    "kategori": "Kitap ; Edebiyat ; Roman (Çeviri) ; ",
-    "kitap_adi": "Yabancı",
-    "yayinevi": "CAN YAYINLARI",
-    "yazar": "Albert Camus"
-    }
+{
+"favori_sayisi": "6279",
+"fiyat": "63.81",
+"kategori": [
+"Kitap",
+"Edebiyat",
+"Roman(Çeviri)"
+],
+"kitap_adi": "Yabancı",
+"kitap_bilgileri": {
+"Boyut:": "12.5 x 19.5 cm",
+"Cilt Tipi:": "Karton Kapak",
+"Dil:": "TÜRKÇE",
+"ISBN:": "9789750748677",
+"Kağıt Cinsi:": "Kitap Kağıdı",
+"Sayfa Sayısı:": "112",
+"Yayın Tarihi:": "09.04.2021",
+"Çevirmen:": "Ayça Sezen"
+},
+"satis_sayisi": "10321",
+"yayinevi": "CAN YAYINLARI",
+"yazar": "Albert Camus",
+"yorum_sayisi": "110"
+}
   ],
   "method": "GET",
   "status": "success"
