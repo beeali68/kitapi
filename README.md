@@ -109,123 +109,117 @@ Sorgu Çıktısı:
 
 ```json
 {
-  "code": 200,
-  "dt": "2024-06-16 15:42:20.612382",
-  "message": [
-    {
-    "fiyat": "62.50",
-    "id": 2035,
-    "kategori": "Kitap ; Ãocuk KitaplarÄą ; 6-12 YaÅ ; Hikaye, Roman ; Masal ; Kitap ; Ãocuk KitaplarÄą ; 12+ YaÅ ; Hikaye, Roman ; Masal ; Kitap ; Ãocuk KitaplarÄą ; 100 Temel Eser ; ",
-    "kitap_adi": "Oliver Twist",
-    "yayinevi": "BİLGİ ÇOCUK KİTAPLARI",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "34.38",
-    "id": 2548,
-    "kategori": "Kitap ; Çocuk Kitapları ; 6-12 Yaş ; Hikaye, Roman ; Masal ; Kitap ; Çocuk Kitapları ; 12+ Yaş ; Hikaye, Roman ; Masal ; Kitap ; Çocuk Kitapları ; 100 Temel Eser ; ",
-    "kitap_adi": "Oliver TwistDünya Çocuk Klasikleri",
-    "yayinevi": "ERDEM ÇOCUK YAYINLARI",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "105.13",
-    "id": 3099,
-    "kategori": "Kitap ; Çocuk Kitapları ; 100 Temel Eser ; Kitap ; Edebiyat ; Roman (Çeviri) ; ",
-    "kitap_adi": "Oliver Twist",
-    "yayinevi": "CAN YAYINLARI",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "9.90",
-    "id": 7370,
-    "kategori": "Kitap ; Çocuk Kitapları ; Hikaye ; Kitap ; Çocuk Kitapları ; 100 Temel Eser ; ",
-    "kitap_adi": "Oliver Twist (Resimli Çocuk Klasikleri) (Cep boy)",
-    "yayinevi": "KARBON KİTAPLAR",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "15.00",
-    "id": 12032,
-    "kategori": "Kitap ; Çocuk Kitapları ; Hikaye ; Kitap ; Çocuk Kitapları ; 100 Temel Eser ; ",
-    "kitap_adi": "Oliver Twist (Illustrated Children’s Classics)",
-    "yayinevi": "KARBON KİTAPLAR",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "165.02",
-    "id": 12686,
-    "kategori": "Kitap ; Çocuk Kitapları ; 100 Temel Eser ; Kitap ; Edebiyat ; Roman (Çeviri) ; ",
-    "kitap_adi": "Oliver Twist (İngilizce)",
-    "yayinevi": "KARBON KİTAPLAR",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "13.00",
-    "id": 13611,
-    "kategori": "Kitap ; Çocuk Kitapları ; Hikaye ; Kitap ; Çocuk Kitapları ; 100 Temel Eser ; ",
-    "kitap_adi": "Oliver Twist (Resimli Çocuk Klasikleri)",
-    "yayinevi": "KARBON KİTAPLAR",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "192.50",
-    "id": 37867,
-    "kategori": "Kitap ; Çocuk Kitapları ; 100 Temel Eser ; ",
-    "kitap_adi": "Oliver Twist (Tam Metin)",
-    "yayinevi": "BEYAN YAYINLARI",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "80.00",
-    "id": 39125,
-    "kategori": "Kitap ; Çocuk Kitapları ; 6-12 Yaş ; Hikaye, Roman ; Masal ; Kitap ; Çocuk Kitapları ; 100 Temel Eser ; ",
-    "kitap_adi": "Oliver Twist 100 Temel Eser",
-    "yayinevi": "NAR ÇOCUK YAYINLARI",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "41.65",
-    "id": 44324,
-    "kategori": "Kitap ; DiÄer Dildeki YayÄḟnlar ; ÄḞngilizce ; ",
-    "kitap_adi": "Oliver Twist Stage 4 İngilizce Hikaye (Alıştırma Ve Sözlük İlaveli)",
-    "yayinevi": "DORLİON YAYINLARI",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "41.65",
-    "id": 53228,
-    "kategori": "Kitap ; Çocuk Kitapları ; 6-12 Yaş ; Hikaye, Roman ; Masal ; Kitap ; Çocuk Kitapları ; 100 Temel Eser ; ",
-    "kitap_adi": "Oliver Twist Dünya Çocuk Klasikleri (7 - 12 Yaş)",
-    "yayinevi": "DORLİON YAYINLARI",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "80.00",
-    "id": 58857,
-    "kategori": "Kitap ; Çocuk Kitapları ; Roman ; Kitap ; Çocuk Kitapları ; 100 Temel Eser ; ",
-    "kitap_adi": "Oliver Twist İlk Gençlik Dizisi",
-    "yayinevi": "NAR ÇOCUK YAYINLARI",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "-",
-    "id": 87596,
-    "kategori": "Kitap ; Çocuk Kitapları ; Roman ; Kitap ; Çocuk Kitapları ; 100 Temel Eser ; ",
-    "kitap_adi": "Oliver Twist (4-E-12)",
-    "yayinevi": "YENİ ZAMANLAR SAHAF (2. El Kitaplar)",
-    "yazar": "Charles Dickens"
-    },
-    {
-    "fiyat": "195.00",
-    "id": 97904,
-    "kategori": "Kitap ; Diğer Dildeki Yayınlar ; İngilizce ; ",
-    "kitap_adi": "Oliver Twist",
-    "yayinevi": "PAPER BOOKS",
-    "yazar": "Charles Dickens"
-    }
-  ],
-  "method": "GET",
-  "status": "success"
+"code": 200,
+"dt": "2024-06-19 02:52:41.087285",
+"message": [
+{
+"favori_sayisi": "382",
+"fiyat": "34.38",
+"kategori": [
+"Kitap",
+"ÇocukKitapları",
+"6-12Yaş",
+"Hikaye,Roman",
+"Masal",
+"Kitap",
+"ÇocukKitapları",
+"12+Yaş",
+"Hikaye,Roman",
+"Masal",
+"Kitap",
+"ÇocukKitapları",
+"100TemelEser"
+],
+"kitap_adi": "Oliver TwistDünya Çocuk Klasikleri",
+"kitap_bilgileri": {},
+"satis_sayisi": "1690",
+"yayinevi": "ERDEM ÇOCUK YAYINLARI",
+"yazar": "Charles Dickens",
+"yorum_sayisi": "17"
+},
+{
+"favori_sayisi": "3094",
+"fiyat": "105.13",
+"kategori": [
+"Kitap",
+"ÇocukKitapları",
+"100TemelEser",
+"Kitap",
+"Edebiyat",
+"Roman(Çeviri)"
+],
+"kitap_adi": "Oliver Twist",
+"kitap_bilgileri": {
+"Boyut:": "12.5 x 19.5 cm",
+"Cilt Tipi:": "Karton Kapak",
+"Dil:": "TÜRKÇE",
+"ISBN:": "9789750738883",
+"Kağıt Cinsi:": "Kitap Kağıdı",
+"Sayfa Sayısı:": "576",
+"Yayın Tarihi:": "20.02.2024",
+"Çevirmen:": "Nihal Yeğinobalı"
+},
+"satis_sayisi": "3718",
+"yayinevi": "CAN YAYINLARI",
+"yazar": "Charles Dickens",
+"yorum_sayisi": "135"
+},
+{
+"favori_sayisi": "322",
+"fiyat": "9.90",
+"kategori": [
+"Kitap",
+"ÇocukKitapları",
+"Hikaye",
+"Kitap",
+"ÇocukKitapları",
+"100TemelEser"
+],
+"kitap_adi": "Oliver Twist (Resimli Çocuk Klasikleri) (Cep boy)",
+"kitap_bilgileri": {},
+"satis_sayisi": "1300",
+"yayinevi": "KARBON KİTAPLAR",
+"yazar": "Charles Dickens",
+"yorum_sayisi": "10"
+},
+{
+"favori_sayisi": "235",
+"fiyat": "15.00",
+"kategori": [
+"Kitap",
+"ÇocukKitapları",
+"Hikaye",
+"Kitap",
+"ÇocukKitapları",
+"100TemelEser"
+],
+"kitap_adi": "Oliver Twist (Illustrated Children’s Classics)",
+"kitap_bilgileri": {},
+"satis_sayisi": "535",
+"yayinevi": "KARBON KİTAPLAR",
+"yazar": "Charles Dickens",
+"yorum_sayisi": "5"
+},
+{
+"favori_sayisi": "123",
+"fiyat": "13.00",
+"kategori": [
+"Kitap",
+"ÇocukKitapları",
+"Hikaye",
+"Kitap",
+"ÇocukKitapları",
+"100TemelEser"
+],
+"kitap_adi": "Oliver Twist (Resimli Çocuk Klasikleri)",
+"kitap_bilgileri": {},
+"satis_sayisi": "534",
+"yayinevi": "KARBON KİTAPLAR",
+"yazar": "Charles Dickens",
+"yorum_sayisi": "6"
+}
+],
+"method": "GET",
+"status": "success"
 }
 ```
