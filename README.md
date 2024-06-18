@@ -4,6 +4,57 @@ Türkiye'nin ilk ve tek Türkçe kitap API'si.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beeali68&label=Repository%20views&color=0e75b6&style=flat" alt="beeali68" /> </p>
 
 ## Sorgular
+
+### ISBN ile Sorgu:
+
+``http://digitall.mercusysddns.com:5095/kitapi/v1/?kitap=<isbn_no>``
+
+<isbn_no> yerine aramak istediğiniz ISBN no yazabilirsiniz.
+
+Örnek Sorgu:
+
+> http://digitall.mercusysddns.com:5095/kitapi/v1/?isbn=9789750738883
+
+Sorgu Çıktısı:
+
+```json
+{
+"code": 200,
+"dt": "2024-06-19 02:56:49.402662",
+"message": [
+{
+"favori_sayisi": "3094",
+"fiyat": "105.13",
+"kategori": [
+"Kitap",
+"ÇocukKitapları",
+"100TemelEser",
+"Kitap",
+"Edebiyat",
+"Roman(Çeviri)"
+],
+"kitap_adi": "Oliver Twist",
+"kitap_bilgileri": {
+"Boyut:": "12.5 x 19.5 cm",
+"Cilt Tipi:": "Karton Kapak",
+"Dil:": "TÜRKÇE",
+"ISBN:": "9789750738883",
+"Kağıt Cinsi:": "Kitap Kağıdı",
+"Sayfa Sayısı:": "576",
+"Yayın Tarihi:": "20.02.2024",
+"Çevirmen:": "Nihal Yeğinobalı"
+},
+"satis_sayisi": "3718",
+"yayinevi": "CAN YAYINLARI",
+"yazar": "Charles Dickens",
+"yorum_sayisi": "135"
+}
+],
+"method": "GET",
+"status": "success"
+}
+```
+
 ### Kitap İsmi ile Sorgu:
 
 ``http://digitall.mercusysddns.com:5095/kitapi/v1/?kitap=<kitap_ismi>``
