@@ -20,6 +20,7 @@ Sorgu Çıktısı:
 {
   "code": 200,
   "dt": "2024-06-16 15:20:13.479537",
+  "message": [
 {
 "favori_sayisi": "1202",
 "fiyat": "181.25",
@@ -43,6 +44,7 @@ Sorgu Çıktısı:
 "yazar": "Mustafa Kemal Atatürk",
 "yorum_sayisi": "12"
 }
+  ],
   "method": "GET",
   "status": "success"
 }
