@@ -20,16 +20,29 @@ Sorgu Çıktısı:
 {
   "code": 200,
   "dt": "2024-06-16 15:20:13.479537",
-  "message": [
-    {
-    "fiyat": "181.25",
-    "id": 1337,
-    "kategori": "Kitap ; Siyaset ; Araştırma-İnceleme ; ",
-    "kitap_adi": "Nutuk",
-    "yayinevi": "CAN YAYINLARI",
-    "yazar": "Mustafa Kemal Atatürk"
-    }
-  ],
+{
+"favori_sayisi": "1202",
+"fiyat": "181.25",
+"kategori": [
+"Kitap",
+"Siyaset",
+"Araştırma-İnceleme"
+],
+"kitap_adi": "Nutuk",
+"kitap_bilgileri": {
+"Boyut:": "15.5 x 23 cm",
+"Cilt Tipi:": "Karton Kapak",
+"Dil:": "TÜRKÇE",
+"ISBN:": "9789750760716",
+"Kağıt Cinsi:": "Kitap Kağıdı",
+"Sayfa Sayısı:": "1096",
+"Yayın Tarihi:": "26.10.2023"
+},
+"satis_sayisi": "820",
+"yayinevi": "CAN YAYINLARI",
+"yazar": "Mustafa Kemal Atatürk",
+"yorum_sayisi": "12"
+}
   "method": "GET",
   "status": "success"
 }
