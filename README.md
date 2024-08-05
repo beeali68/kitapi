@@ -8,7 +8,7 @@ Türkiye'nin ilk ve tek Türkçe kitap API'si.
 
 ### ISBN ile Sorgu:
 
-`http://digitall.mercusysddns.com:5095/kitapi/v1/?isbn=<isbn_no>`
+`http://92.44.62.178:5010/kitapi/v1/?isbn=<isbn_no>`
 
 <isbn_no> yerine aramak istediğiniz ISBN no yazabilirsiniz.
 
