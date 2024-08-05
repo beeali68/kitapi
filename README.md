@@ -14,7 +14,7 @@ Türkiye'nin ilk ve tek Türkçe kitap API'si.
 
 Örnek Sorgu:
 
-> http://digitall.mercusysddns.com:5095/kitapi/v1/?isbn=9789750738883
+> http://92.44.62.178:5010/kitapi/v1/?isbn=9789750738883
 
 Sorgu Çıktısı:
 
@@ -58,13 +58,13 @@ Sorgu Çıktısı:
 
 ### Kitap İsmi ile Sorgu:
 
-`http://digitall.mercusysddns.com:5095/kitapi/v1/?kitap=<kitap_ismi>`
+`http://92.44.62.178:5010/kitapi/v1/?kitap=<kitap_ismi>`
 
 <kitap_ismi> yerine aramak istediğiniz kitabı yazabilirsiniz.
 
 Örnek Sorgu:
 
-> http://digitall.mercusysddns.com:5095/kitapi/v1/?kitap=nutuk
+> http://92.44.62.178:5010/kitapi/v1/?kitap=nutuk
 
 Sorgu Çıktısı:
 
@@ -100,13 +100,13 @@ Sorgu Çıktısı:
 
 ### Yazar İsmi ile Sorgu:
 
-`http://digitall.mercusysddns.com:5095/kitapi/v1/?yazar=<yazar_ismi>`
+`http://92.44.62.178:5010/kitapi/v1/?yazar=<yazar_ismi>`
 
 <yazar_ismi> yerine aramak istediğiniz yazarı yazabilirsiniz.
 
 Örnek Sorgu:
 
-> http://digitall.mercusysddns.com:5095/kitapi/v1/?yazar=Albert%20Camus
+> http://92.44.62.178:5010/kitapi/v1/?yazar=Albert%20Camus
 
 Sorgu Çıktısı:
 
@@ -143,13 +143,13 @@ Sorgu Çıktısı:
 
 ### Hem Yazar Hem de Kitap İsmi ile Sorgu:
 
-`http://digitall.mercusysddns.com:5095/kitapi/v1/?yazar=<yazar_ismi>&kitap=<kitap_ismi>`
+`http://92.44.62.178:5010/kitapi/v1/?yazar=<yazar_ismi>&kitap=<kitap_ismi>`
 
 <yazar_ismi> yerine aramak istediğiniz yazarı, <kitap_ismi> yerine de aramak istediğiniz kitabı yazabilirsiniz.
 
 Örnek Sorgu:
 
-> http://digitall.mercusysddns.com:5095/kitapi/v1/?yazar=charles%20dickens&kitap=Oliver%20Twist
+> http://92.44.62.178:5010/kitapi/v1/?yazar=charles%20dickens&kitap=Oliver%20Twist
 
 ```json
 {
