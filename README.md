@@ -149,7 +149,7 @@ Sorgu Çıktısı:
 
 Örnek Sorgu:
 
-> http://digittall.duckdns.org/kitapi/v1/?yazar=charles%20dickens&kitap=Oliver%20Twist
+> http://digittall.duckdns.org:5010/kitapi/v1/?yazar=charles%20dickens&kitap=Oliver%20Twist
 
 ```json
 {
