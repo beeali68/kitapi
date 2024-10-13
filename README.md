@@ -14,7 +14,7 @@ Türkiye'nin ilk ve tek Türkçe kitap API'si.
 
 Örnek Sorgu:
 
-> http://digittall.duckdns.org:5010/kitapi/v1/?isbn=9789750738883
+> http://digittall.duckdns.org:5011/kitapi/v1/?isbn=9789750738883
 
 Sorgu Çıktısı:
 
@@ -64,7 +64,7 @@ Sorgu Çıktısı:
 
 Örnek Sorgu:
 
-> http://digittall.duckdns.org:5010/kitapi/v1/?kitap=nutuk
+> http://digittall.duckdns.org:5011/kitapi/v1/?kitap=nutuk
 
 Sorgu Çıktısı:
 
@@ -106,7 +106,7 @@ Sorgu Çıktısı:
 
 Örnek Sorgu:
 
-> http://digittall.duckdns.org:5010/kitapi/v1/?yazar=Albert%20Camus
+> http://digittall.duckdns.org:5011/kitapi/v1/?yazar=Albert%20Camus
 
 Sorgu Çıktısı:
 
@@ -149,7 +149,7 @@ Sorgu Çıktısı:
 
 Örnek Sorgu:
 
-> http://digittall.duckdns.org:5010/kitapi/v1/?yazar=charles%20dickens&kitap=Oliver%20Twist
+> http://digittall.duckdns.org:5011/kitapi/v1/?yazar=charles%20dickens&kitap=Oliver%20Twist
 
 ```json
 {
